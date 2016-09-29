@@ -7,4 +7,4 @@ Basic web yoga Quiz which had two ways of playing it.
 
 At the end the Quiz calculates the how many correct questions we answered and displays it to the screen by using a myphp admin database.
 
-
+To make this Quiz I used HTML, CSS, Javascript and Php.
